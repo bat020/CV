@@ -1,6 +1,6 @@
 ## Anindya Bhattacharyya
 
-I'm a writer and coder based in London. I've spent most of the past 20 years working as a journalist, editor and campaigner – but I'm now shifting into software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can work in a team and deploy all these abilities to do something useful.
+I'm a writer and coder based in London. I've spent most of the past 20 years working as a journalist, editor and campaigner – but I'm now shifting into software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy all these abilities to do something useful.
 
 ## Skills
 
@@ -9,9 +9,9 @@ I'm a writer and coder based in London. I've spent most of the past 20 years wor
 I've built a Chrome extension called Accent Grid that has 12,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Google Chrome browser.
 
 I searched for a neat tool to help me type accents, but couldn't find one. So taught myself JavaScript from scratch and
-built the extension myself. See [bat020.tumblr.com/accent-grid](https://bat020.tumblr.com/accent-grid) and [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid) for more details.
+built the extension myself. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github](https://github.com/bat020/accent-grid).
 
-I enjoyed writing this extension so much that I decided to switch from journalism to software development. I've just completed an intensive 12 week coding course at Makers Academy which has introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was Alarming, a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
+I enjoyed writing this extension so much I decided to switch from journalism to software development. I've just completed an intensive coding course at Makers Academy which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was Alarming, a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
 
 #### Communications
 
@@ -19,12 +19,12 @@ I have a great deal of experience in all aspects of communication – public spe
 
 #### Concepts
 
-My degree was in pure mathematics and I recently completed an MA in modern European philosophy. I have a good head for abstract concepts and an interest in manipulating and explaining them. You can find examples of my essays and articles on my blog at [bat020.com](https://bat020.com) or watch a recent talk I gave on mathematics and philosophy at [youtu.be/mPu_FLlxWoU ](https://youtu.be/mPu_FLlxWoU). I can solve a Rubik's Cube in under a minute.
+My degree was in pure mathematics and I recently completed an MA in modern European philosophy. I have a good head for abstract concepts and a talent for explaining them. You can find examples of my essays and articles on my blog at [bat020.com](http://bat020.com), or watch a recent talk I gave on maths and philosophy at [youtu.be/mPu_FLlxWoU](https://youtu.be/mPu_FLlxWoU). I can solve a Rubik's Cube in under a minute.
 
 ## Education
 
 #### Makers Academy, Sep-Dec 2015
-12 week intensive course in all aspects of software development
+12-week intensive course in all aspects of software development
 
 #### Middlesex University, 2009-11
 MA in Modern European Philosophy
