@@ -6,12 +6,10 @@ I'm a writer and coder based in London. I've spent most of the past 20 years wor
 
 #### Coding
 
-I've built a Chrome extension called Accent Grid that has 12,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Google Chrome browser.
+I've built a Chrome extension called Accent Grid that has 12,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Google Chrome browser. I was searching for a neat tool to help me type accents, but couldn't find one. So taught myself JavaScript and
+built the extension myself from scratch. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid).
 
-I searched for a neat tool to help me type accents, but couldn't find one. So taught myself JavaScript from scratch and
-built the extension myself. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github](https://github.com/bat020/accent-grid).
-
-I enjoyed writing this extension so much I decided to switch from journalism to software development. I've just completed an intensive coding course at Makers Academy which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was Alarming, a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
+I enjoyed this project so much I decided to switch from journalism to software development. I've just completed an intensive coding course at Makers Academy which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was [Alarming](https://github.com/hvenables/alarming), a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
 
 #### Communications
 
