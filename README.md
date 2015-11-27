@@ -6,14 +6,19 @@ I'm a writer and coder based in London. I've spent most of the past 20 years wor
 
 #### Coding
 
-I've built a Chrome extension called Accent Grid that has 12,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Google Chrome browser. I was searching for a neat tool to help me type accents, but couldn't find one. So taught myself JavaScript and
-built the extension myself from scratch. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid).
+I've built a Chrome extension called [Accent Grid](https://chrome.google.com/webstore/detail/accent-grid/efedjomeallaomheefphgnbleieplnfk?hl=en-GB) that has 12,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Chrome browser. I was searching for a tool to do this, but couldn't find one – so I taught myself JavaScript and built it myself. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid).
 
-I enjoyed this project so much I decided to switch from journalism to software development. I've just completed an intensive coding course at Makers Academy which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was [Alarming](https://github.com/hvenables/alarming), a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
+I've just completed an intensive coding course at Makers Academy which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was [Alarming](https://github.com/hvenables/alarming), a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
+
+[Knight Chase](http://bat020.github.io/knight-chase/) is a fun toy I wrote at Makers with a colleague. It's a single page application written in pure JavaScript and jQuery that implements an unusual and intriguing two player strategy game.
+
+I also have experience working in LISP, Prolog and a variety of traditional languages such as C and Fortran.
 
 #### Communications
 
 I have a great deal of experience in all aspects of communication – public speaking, writing, design, social media – that I've picked up in my 20 years as a journalist and editor covering all manner of topics. It's a skill that transfers easily to dealing with user interface aspects of coding, as well as being useful in a general business environment.
+
+In my time as a journalist I've launched a magazine on financial risk management, edited newsletters, managed teams, put a national newspaper online every night, and reported on Occupy Wall Street.
 
 #### Concepts
 
