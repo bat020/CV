@@ -1,6 +1,6 @@
 ## Anindya Bhattacharyya
 
-I'm a writer and coder based in London. I've spent most of the past 20 years working as a journalist, editor and campaigner – but I'm now shifting into software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy all these abilities to do something useful.
+I'm a writer and coder based in London. I've spent the past 20 years working as a journalist, editor and campaigner but am now switching to software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy all these abilities to do something useful.
 
 ## Skills
 
@@ -8,11 +8,11 @@ I'm a writer and coder based in London. I've spent most of the past 20 years wor
 
 I've built a Chrome extension called [Accent Grid](https://chrome.google.com/webstore/detail/accent-grid/efedjomeallaomheefphgnbleieplnfk?hl=en-GB) that has 12,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Chrome browser. I was searching for a tool to do this, but couldn't find one – so I taught myself JavaScript and built it myself. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid).
 
-I've just completed an intensive coding course at Makers Academy which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was [Alarming](https://github.com/hvenables/alarming), a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
+I've just completed an intensive coding course at [Makers Academy](http://www.makersacademy.com/) which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was [Alarming](https://github.com/hvenables/alarming), a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
 
 [Knight Chase](http://bat020.github.io/knight-chase/) is a fun toy I wrote at Makers with a colleague. It's a single page application written in pure JavaScript and jQuery that implements an unusual and intriguing two player strategy game.
 
-I also have experience working in LISP, Prolog and a variety of traditional languages such as C and Fortran.
+I also have experience working in LISP, Prolog and a variety of traditional languages such as C and Fortran. I'm currently teaching myself Haskell.
 
 #### Communications
 
@@ -22,7 +22,7 @@ In my time as a journalist I've launched a magazine on financial risk management
 
 #### Concepts
 
-My degree was in pure mathematics and I recently completed an MA in modern European philosophy. I have a good head for abstract concepts and a talent for explaining them. You can find examples of my essays and articles on my blog at [bat020.com](http://bat020.com), or watch a recent talk I gave on maths and philosophy at [youtu.be/mPu_FLlxWoU](https://youtu.be/mPu_FLlxWoU). I can solve a Rubik's Cube in under a minute.
+My degree was in pure mathematics and I recently completed an MA in modern European philosophy. I have a talent for explaining abstract concepts: check out my essays and articles at [bat020.com](http://bat020.com), or watch a recent talk I gave on maths and philosophy at [youtu.be/mPu_FLlxWoU](https://youtu.be/mPu_FLlxWoU). I can solve a Rubik's Cube in under a minute, using an algorithm I developed myself.
 
 ## Education
 
