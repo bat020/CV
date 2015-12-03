@@ -68,4 +68,4 @@ financial reporter writing about derivatives and risk management systems
 launch editor of Risk Professional, a magazine for financial risk managers
 
 **Waters Information Services** (Sep 1993 to Sep 1999)
-reporter/editor specialising in financial risk management and derivatives trading systems
+reporter/editor specialising in derivatives trading systems
