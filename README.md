@@ -1,12 +1,12 @@
 ## Anindya Bhattacharyya
 
-I'm a writer and coder based in London. I've spent the past 20 years working as a journalist, editor and campaigner but am now switching to software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy these abilities to do something useful.
+I'm a writer and coder based in London. I've spent the past 20 years working as a journalist, editor and campaigner but am now switching to software development. I have a good head for problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy these abilities to do something useful.
 
 ## Skills
 
 #### Coding
 
-I've built a Chrome extension called [Accent Grid](https://chrome.google.com/webstore/detail/accent-grid/efedjomeallaomheefphgnbleieplnfk?hl=en-GB) that has 9,000 users worldwide (according to Google Play). It gives users easy access to accented and special characters from within the Chrome browser. I was searching for a tool to do this, but couldn't find one – so I taught myself JavaScript and built it myself. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid).
+I've built a Chrome extension called [Accent Grid](https://chrome.google.com/webstore/detail/accent-grid/efedjomeallaomheefphgnbleieplnfk?hl=en-GB) that has 9,000 users worldwide (according to Google Play). It provides easy access to accented and special characters from within the Chrome browser. I was searching for a tool to do this, but couldn't find one – so I taught myself JavaScript and built it myself. See [bat020.tumblr.com/accent-grid](http://bat020.tumblr.com/accent-grid) for more details or check out the code on [github.com/bat020/accent-grid](https://github.com/bat020/accent-grid).
 
 I've just completed an intensive coding course at [Makers Academy](http://www.makersacademy.com/) which introduced me to Ruby, test driven development, Rails and AngularJS. My final project at Makers was [Alarming](https://github.com/hvenables/alarming), a "social alarm clock" phone app that sends out coordinated alarms for meetings and events.
 
