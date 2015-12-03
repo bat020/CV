@@ -1,6 +1,6 @@
 ## Anindya Bhattacharyya
 
-I'm a writer and coder based in London. I've spent the past 20 years working as a journalist, editor and campaigner but am now switching to software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy all these abilities to do something useful.
+I'm a writer and coder based in London. I've spent the past 20 years working as a journalist, editor and campaigner but am now switching to software development. I have a good head for abstract problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy these abilities to do something useful.
 
 ## Skills
 
@@ -62,7 +62,7 @@ reporter and subeditor for various newspapers and magazines
 web subeditor working on news, features and finance for telegraph.co.uk
 
 **Freelance journalist** (Jan 2001 to Jun 2002)
-financial reporter writing about foreign exchange and risk management systems
+financial reporter writing about derivatives and risk management systems
 
 **Informa** (Sep 1999 to Jan 2001)
 launch editor of Risk Professional, a magazine for financial risk managers
