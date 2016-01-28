@@ -1,5 +1,7 @@
 ## Anindya Bhattacharyya
 
+bat020@gmail.com
+
 I'm a writer and coder based in London. I've spent the past 20 years working as a journalist, editor and campaigner but am now switching to software development. I have a good head for problem solving and strong communications skills. I learn fast, and enjoy learning fast. I'm looking for a junior developer role where I can deploy these abilities to do something useful.
 
 ## Skills
